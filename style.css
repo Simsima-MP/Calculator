@@ -1,0 +1,24 @@
+.calcu{
+    width: 400px;
+    height: 600px;
+    background: linear-gradient(rgb(133, 118, 118),rgb(71, 65, 65));
+    margin-left: 600px;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+.screen{
+    width: 80%;
+    margin-left: 36px;
+    height: 40px;
+    margin-top: 30px;
+    pointer-events: none;
+}
+.btn{
+    width: 60px;
+    height: 60px;
+    margin-left: 30px;
+    margin-top: 30px;
+    background:linear-gradient(rgb(77, 49, 15),rgb(138, 114, 7)) ;
+    border-radius: 5px;
+    border-color: darkgray;
+}
